@@ -7,5 +7,5 @@ Load the coastal-diligence skill, read the operating rules and then
 `docs/playbooks/dd_report.md` with the server's `guide` tool, and start a
 due-diligence report for: $ARGUMENTS
 
-Confirm the audience, their sophistication, and the engagement type with the
+Confirm the audience, their sophistication, and the commissioning party with the
 user before drafting, as the operating rules require.
